@@ -1,2 +1,2 @@
 # buy
-Vape Товары от Магазина TOS
+<a data-pin-do="embedBoard" href="https://ru.pinterest.com/buy_mehmod/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D1%85-%D1%81%D0%B8%D0%B3%D0%B0%D1%80%D0%B5%D1%82/"data-pin-scale-width="80" data-pin-scale-height="200" data-pin-board-width="400">         Подпишитесь на доски (интернет магазин электронных сигарет) следующих пользователей Pinterest: TOS vape shop России.</a><!-- Please call pinit.js only once per page --><script type="text/javascript" async src="//assets.pinterest.com/js/pinit.js"></script>
